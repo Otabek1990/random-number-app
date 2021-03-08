@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/random-number-app/static/css/main.af2eb78d.chunk.css",
+    "main.js": "/random-number-app/static/js/main.051a9cbd.chunk.js",
+    "main.js.map": "/random-number-app/static/js/main.051a9cbd.chunk.js.map",
+    "runtime-main.js": "/random-number-app/static/js/runtime-main.f067d802.js",
+    "runtime-main.js.map": "/random-number-app/static/js/runtime-main.f067d802.js.map",
+    "static/js/2.aa76b53d.chunk.js": "/random-number-app/static/js/2.aa76b53d.chunk.js",
+    "static/js/2.aa76b53d.chunk.js.map": "/random-number-app/static/js/2.aa76b53d.chunk.js.map",
+    "index.html": "/random-number-app/index.html",
+    "static/css/main.af2eb78d.chunk.css.map": "/random-number-app/static/css/main.af2eb78d.chunk.css.map",
+    "static/js/2.aa76b53d.chunk.js.LICENSE.txt": "/random-number-app/static/js/2.aa76b53d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f067d802.js",
+    "static/js/2.aa76b53d.chunk.js",
+    "static/css/main.af2eb78d.chunk.css",
+    "static/js/main.051a9cbd.chunk.js"
+  ]
+}
