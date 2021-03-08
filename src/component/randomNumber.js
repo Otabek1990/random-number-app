@@ -24,7 +24,7 @@ console.log(num)
     between <span className="span">a</span> and <span className="span">b : </span>
 <br/>
   <span className="span"><h3>Result - {num}</h3></span></h2>
-    <button onClick={takeNum}>Take Num</button>
+    <button onClick={takeNum}>Get Random Number</button>
     <br/>
     <br/>
     <span className="span">a</span>
